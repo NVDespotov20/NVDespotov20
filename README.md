@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **school projects**
 
-- 🌱 I’m currently learning **C++, HTML, CSS, and SDL**
+- 🌱 I’m currently learning **C++, HTML, CSS, SFML, JavaScript and SDL**
 
 - 👯 I’m looking to collaborate on **fun projects and games**
 
