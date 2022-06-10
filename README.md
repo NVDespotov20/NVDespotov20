@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **fun projects and games**
 
-- 💬 About me [I am a fun and interesting person who is also easy to work with.](I am a fun and interesting person who is also easy to work with.)
+- 💬 About me I am a fun and interesting person who is also easy to work with.
 
 - 📫 How to reach me **nvdespotov20@codingburgas.bg**
 
