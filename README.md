@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **school projects**
 
-- 🌱 I’m currently learning **C++, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **.NET and SQL**
 
 - 👯 I’m looking to collaborate on **fun projects and games**
 
