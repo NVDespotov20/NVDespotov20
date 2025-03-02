@@ -4,6 +4,8 @@
 
 I'm a full-stack developer from Burgas, Bulgaria. I work mainly with ASP.NET, C#, and JavaScript. I also have an interest in cybersecurity and build projects to solve everyday problems.
 
+**I use Arch btw.**
+
 ### Skills
 
 <img
@@ -26,11 +28,11 @@ I'm a full-stack developer from Burgas, Bulgaria. I work mainly with ASP.NET, C#
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NVDespotov20&theme=dark">
-      <img height=230 align="center" alt="Nikolay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NVDespotov20&theme=default">
+      <img height=200 align="center" alt="Nikolay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NVDespotov20&theme=default">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NVDespotov20&layout=donut&theme=dark">
-      <img height=230 align="center" alt="Nikolay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVDespotov20&layout=donut&theme=default">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NVDespotov20&layout=compact&theme=dark">
+      <img height=200 align="center" alt="Nikolay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVDespotov20&layout=compact&theme=default">
     </picture>
   </p>
 </details>
