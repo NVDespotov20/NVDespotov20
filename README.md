@@ -66,4 +66,4 @@ I'm a full-stack developer from Burgas, Bulgaria. I work mainly with ASP.NET, C#
 ## Contact
 
 - **Email:** [nvdespotov20@codingburgas.bg](mailto:nvdespotov20@codingburgas.bg)
-- **Website:** [ndespotov.me](https://ndespotov.me)
+- **Website:** [ndespotov.com](https://ndespotov.com)
