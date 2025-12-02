@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/89/5c/e7/895ce751ba0379700381d17a67086931.gif" alt="Funny coding GIF" width="300">
 
-I'm a full-stack developer from Burgas, Bulgaria. I work mainly with ASP.NET, C#, and JavaScript. I also have an interest in cybersecurity and build projects to solve everyday problems.
+I'm a full-stack developer from Burgas, Bulgaria, currently located in Blagoevgrad. I work mainly with ASP.NET, C#, and JavaScript. I also have an interest in cybersecurity and build projects to solve everyday problems.
 
 **I use Arch btw.**
 
