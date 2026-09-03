@@ -42,6 +42,7 @@ I'm a full-stack developer from Burgas, Bulgaria, currently located in Blagoevgr
   <br>
   
   <!--START_SECTION:badges-->
+[![Google Cybersecurity Professional Certificate(v.2)](https://images.credly.com/size/80x80/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob)](https://www.credly.com/badges/fa9d3466-d879-414a-8c7a-e207a6b0dc2b)
 [![Adobe Certified Professional in Video Design](https://images.credly.com/size/80x80/images/2753898c-fa5b-4058-9366-a3ce365d5845/Adobe_Certified_Professional_Video_Design_digital_badge.png)](https://www.credly.com/badges/cbce4bbb-b026-4b7f-86e3-73ce5c366fd1)
 [![Networking Academy Learn-A-Thon 2024](https://images.credly.com/size/80x80/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png)](https://www.credly.com/badges/3a0078b1-5a90-4a1e-bcbe-5252927ec927)
 [![Adobe Certified Professional in Visual Design](https://images.credly.com/size/80x80/images/19d96e55-f15c-44d9-9568-43f83505bd5b/Adobe_Certified_Professional_Visual_Design_digital_badge.png)](https://www.credly.com/badges/ee013f66-c440-49f0-8d53-12c41067b318)
