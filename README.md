@@ -66,5 +66,5 @@ I'm a full-stack developer from Burgas, Bulgaria, currently located in Blagoevgr
 
 ## Contact
 
-- **Email:** [nvdespotov20@codingburgas.bg](mailto:nvdespotov20@codingburgas.bg)
+- **Email:** [business@ndespotov.com](mailto:business@ndespotov.com)
 - **Website:** [ndespotov.com](https://ndespotov.com)
